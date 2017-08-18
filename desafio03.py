@@ -2,4 +2,4 @@
 a = float(input('Primeiro número: '))
 b = float(input('Segundo número: '))
 resultado = a + b
-print ('A soma é: ' + str(resultado))
+print ('A soma é: ', resultado)
