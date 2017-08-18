@@ -1,5 +1,5 @@
 #Desafio 03 do curso em vídeo
-a = input('Primeiro número: ')
-b = input('Segundo número: ')
-resultado = float(a) + float(b)
+a = float(input('Primeiro número: '))
+b = float(input('Segundo número: '))
+resultado = a + b
 print ('A soma é: ' + str(resultado))
